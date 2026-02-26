@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwaspScanner.Core", "src\OwaspScanner.Core\OwaspScanner.Core.csproj", "{0E2A9DE3-E9D7-4D7B-9E7E-D16E57745EA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwaspScanner.App", "src\OwaspScanner.App\OwaspScanner.App.csproj", "{272E9107-E0E3-4A0E-A7FE-408530D11DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2A9DE3-E9D7-4D7B-9E7E-D16E57745EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2A9DE3-E9D7-4D7B-9E7E-D16E57745EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2A9DE3-E9D7-4D7B-9E7E-D16E57745EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2A9DE3-E9D7-4D7B-9E7E-D16E57745EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272E9107-E0E3-4A0E-A7FE-408530D11DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272E9107-E0E3-4A0E-A7FE-408530D11DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272E9107-E0E3-4A0E-A7FE-408530D11DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272E9107-E0E3-4A0E-A7FE-408530D11DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
